@@ -1,0 +1,214 @@
+\begin{thebibliography}{21}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Inproceedings
+\bibitem[{Aral et~al.(2018)Aral, Keskin, Kaya and
+  Hac{\i}{\"o}mero{\u{g}}lu}]{aral_trashnet}
+\bibinfo{author}{Aral, R.A.}, \bibinfo{author}{Keskin, S.R.},
+  \bibinfo{author}{Kaya, M.}, \bibinfo{author}{Hac{\i}{\"o}mero{\u{g}}lu, M.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Classification of {TrashNet} dataset based on deep
+  learning models}, in: \bibinfo{booktitle}{2018 IEEE International Conference
+  on Big Data (Big Data)}, \bibinfo{organization}{IEEE}. pp.
+  \bibinfo{pages}{2058--2062}.
+\newblock \DOIprefix\doi{10.1109/BigData.2018.8622212}.
+%Type = Article
+\bibitem[{Bashkirova et~al.(2020)Bashkirova, Teplyakov, Averbuch-Elor, Adeli,
+  Aikenhead, Eisner, Adeli and Kak}]{deepwaste}
+\bibinfo{author}{Bashkirova, D.}, \bibinfo{author}{Teplyakov, K.},
+  \bibinfo{author}{Averbuch-Elor, H.}, \bibinfo{author}{Adeli, E.},
+  \bibinfo{author}{Aikenhead, M.}, \bibinfo{author}{Eisner, S.},
+  \bibinfo{author}{Adeli, H.}, \bibinfo{author}{Kak, A.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{DeepWaste}: Applying deep learning to waste
+  classification for a sustainable planet}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2001.06175} .
+%Type = Inproceedings
+\bibitem[{Cui et~al.(2019)Cui, Jia, Lin, Song and Belongie}]{cui_classbalanced}
+\bibinfo{author}{Cui, Y.}, \bibinfo{author}{Jia, M.}, \bibinfo{author}{Lin,
+  T.Y.}, \bibinfo{author}{Song, Y.}, \bibinfo{author}{Belongie, S.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Class-balanced loss based on effective number of
+  samples}, in: \bibinfo{booktitle}{Proceedings of the IEEE/CVF Conference on
+  Computer Vision and Pattern Recognition (CVPR)}, pp.
+  \bibinfo{pages}{9268--9277}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2019.00949}.
+%Type = Article
+\bibitem[{Goyal et~al.(2017)Goyal, Doll{\'a}r, Girshick, Noordhuis, Wesolowski,
+  Kyrola, Tulloch, Jia and He}]{goyal_bigbatch}
+\bibinfo{author}{Goyal, P.}, \bibinfo{author}{Doll{\'a}r, P.},
+  \bibinfo{author}{Girshick, R.}, \bibinfo{author}{Noordhuis, P.},
+  \bibinfo{author}{Wesolowski, L.}, \bibinfo{author}{Kyrola, A.},
+  \bibinfo{author}{Tulloch, A.}, \bibinfo{author}{Jia, Y.},
+  \bibinfo{author}{He, K.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Accurate, large minibatch {SGD}: Training {ImageNet}
+  in 1 hour}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1706.02677} .
+%Type = Inproceedings
+\bibitem[{He et~al.(2016)He, Zhang, Ren and Sun}]{he_resnet}
+\bibinfo{author}{He, K.}, \bibinfo{author}{Zhang, X.}, \bibinfo{author}{Ren,
+  S.}, \bibinfo{author}{Sun, J.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Deep residual learning for image recognition}, in:
+  \bibinfo{booktitle}{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pp. \bibinfo{pages}{770--778}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2016.90}.
+%Type = Inproceedings
+\bibitem[{Hu et~al.(2018)Hu, Shen and Sun}]{hu_senet}
+\bibinfo{author}{Hu, J.}, \bibinfo{author}{Shen, L.}, \bibinfo{author}{Sun,
+  G.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Squeeze-and-excitation networks}, in:
+  \bibinfo{booktitle}{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pp. \bibinfo{pages}{7132--7141}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2018.00745}.
+%Type = Inproceedings
+\bibitem[{Huang et~al.(2017)Huang, Liu, van~der Maaten and
+  Weinberger}]{huang_densenet}
+\bibinfo{author}{Huang, G.}, \bibinfo{author}{Liu, Z.},
+  \bibinfo{author}{van~der Maaten, L.}, \bibinfo{author}{Weinberger, K.Q.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Densely connected convolutional networks}, in:
+  \bibinfo{booktitle}{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pp. \bibinfo{pages}{4700--4708}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2017.243}.
+%Type = Inproceedings
+\bibitem[{Kingma and Ba(2015)}]{kingma_adam}
+\bibinfo{author}{Kingma, D.P.}, \bibinfo{author}{Ba, J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Adam: A method for stochastic optimization}, in:
+  \bibinfo{booktitle}{International Conference on Learning Representations
+  (ICLR)}, pp. \bibinfo{pages}{1--15}.
+\newblock \URLprefix \url{https://arxiv.org/abs/1412.6980}.
+%Type = Inproceedings
+\bibitem[{Meng and Chu(2020)}]{meng_a_study}
+\bibinfo{author}{Meng, S.}, \bibinfo{author}{Chu, W.T.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{A study of garbage classification with convolutional
+  neural networks}, in: \bibinfo{booktitle}{2020 Indo--Taiwan 2nd International
+  Conference on Computing, Analytics and Networks (Indo-Taiwan ICAN)},
+  \bibinfo{organization}{IEEE}. pp. \bibinfo{pages}{152--158}.
+\newblock \DOIprefix\doi{10.1109/Indo-TaiwanICAN48429.2020.9181351}.
+%Type = Article
+\bibitem[{Pan and Yang(2010)}]{pan_transfer}
+\bibinfo{author}{Pan, S.J.}, \bibinfo{author}{Yang, Q.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{A survey on transfer learning}.
+\newblock \bibinfo{journal}{IEEE Transactions on Knowledge and Data
+  Engineering} \bibinfo{volume}{22}, \bibinfo{pages}{1345--1359}.
+\newblock \DOIprefix\doi{10.1109/TKDE.2009.191}.
+%Type = Inproceedings
+\bibitem[{Paszke et~al.(2019)Paszke, Gross, Massa, Lerer, Bradbury, Chanan,
+  Killeen, Lin, Gimelshein, Antiga et~al.}]{paszke_pytorch}
+\bibinfo{author}{Paszke, A.}, \bibinfo{author}{Gross, S.},
+  \bibinfo{author}{Massa, F.}, \bibinfo{author}{Lerer, A.},
+  \bibinfo{author}{Bradbury, J.}, \bibinfo{author}{Chanan, G.},
+  \bibinfo{author}{Killeen, T.}, \bibinfo{author}{Lin, Z.},
+  \bibinfo{author}{Gimelshein, N.}, \bibinfo{author}{Antiga, L.}, et~al.,
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{PyTorch}: An imperative style, high-performance deep
+  learning library}, in: \bibinfo{booktitle}{Advances in Neural Information
+  Processing Systems (NeurIPS)}, pp. \bibinfo{pages}{8026--8037}.
+%Type = Inproceedings
+\bibitem[{Rabano et~al.(2018)Rabano, Cabatuan, Sybingco, Dadios and
+  Calilung}]{rabano_common}
+\bibinfo{author}{Rabano, S.L.}, \bibinfo{author}{Cabatuan, M.K.},
+  \bibinfo{author}{Sybingco, E.}, \bibinfo{author}{Dadios, E.P.},
+  \bibinfo{author}{Calilung, E.J.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Common garbage classification using {MobileNet}}, in:
+  \bibinfo{booktitle}{2018 IEEE 10th International Conference on Humanoid,
+  Nanotechnology, Information Technology, Communication and Control,
+  Environment and Management (HNICEM)}, \bibinfo{organization}{IEEE}. pp.
+  \bibinfo{pages}{1--4}.
+\newblock \DOIprefix\doi{10.1109/HNICEM.2018.8666300}.
+%Type = Inproceedings
+\bibitem[{Sandler et~al.(2018)Sandler, Howard, Zhu, Zhmoginov and
+  Chen}]{sandler_mobilenet}
+\bibinfo{author}{Sandler, M.}, \bibinfo{author}{Howard, A.},
+  \bibinfo{author}{Zhu, M.}, \bibinfo{author}{Zhmoginov, A.},
+  \bibinfo{author}{Chen, L.C.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{MobileNetV2}: Inverted residuals and linear
+  bottlenecks}, in: \bibinfo{booktitle}{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition (CVPR)}, pp.
+  \bibinfo{pages}{4510--4520}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2018.00474}.
+%Type = Inproceedings
+\bibitem[{Selvaraju et~al.(2017)Selvaraju, Cogswell, Das, Vedantam, Parikh and
+  Batra}]{selvaraju_gradcam}
+\bibinfo{author}{Selvaraju, R.R.}, \bibinfo{author}{Cogswell, M.},
+  \bibinfo{author}{Das, A.}, \bibinfo{author}{Vedantam, R.},
+  \bibinfo{author}{Parikh, D.}, \bibinfo{author}{Batra, D.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Grad-CAM}: Visual explanations from deep networks
+  via gradient-based localization}, in: \bibinfo{booktitle}{Proceedings of the
+  IEEE International Conference on Computer Vision (ICCV)}, pp.
+  \bibinfo{pages}{618--626}.
+\newblock \DOIprefix\doi{10.1109/ICCV.2017.74}.
+%Type = Inproceedings
+\bibitem[{Simonyan and Zisserman(2015)}]{simonyan_vgg}
+\bibinfo{author}{Simonyan, K.}, \bibinfo{author}{Zisserman, A.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Very deep convolutional networks for large-scale
+  image recognition}, in: \bibinfo{booktitle}{International Conference on
+  Learning Representations (ICLR)}, pp. \bibinfo{pages}{1--14}.
+\newblock \URLprefix \url{https://arxiv.org/abs/1409.1556}.
+%Type = Article
+\bibitem[{Single et~al.(2023)Single, Iranmanesh and Raad}]{realwaste}
+\bibinfo{author}{Single, S.}, \bibinfo{author}{Iranmanesh, S.},
+  \bibinfo{author}{Raad, R.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{RealWaste}: A novel real-life data set for landfill
+  waste classification using deep learning}.
+\newblock \bibinfo{journal}{Information} \bibinfo{volume}{14},
+  \bibinfo{pages}{633}.
+\newblock \DOIprefix\doi{10.3390/info14120633}.
+%Type = Inproceedings
+\bibitem[{Szegedy et~al.(2017)Szegedy, Ioffe, Vanhoucke and
+  Alemi}]{szegedy_inceptionresnet}
+\bibinfo{author}{Szegedy, C.}, \bibinfo{author}{Ioffe, S.},
+  \bibinfo{author}{Vanhoucke, V.}, \bibinfo{author}{Alemi, A.A.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Inception-v4, inception-{ResNet} and the impact of
+  residual connections on learning}, in: \bibinfo{booktitle}{Proceedings of the
+  AAAI Conference on Artificial Intelligence}, pp. \bibinfo{pages}{4278--4284}.
+\newblock \DOIprefix\doi{10.1609/aaai.v31i1.11231}.
+%Type = Inproceedings
+\bibitem[{Szegedy et~al.(2016)Szegedy, Vanhoucke, Ioffe, Shlens and
+  Wojna}]{szegedy_inceptionv3}
+\bibinfo{author}{Szegedy, C.}, \bibinfo{author}{Vanhoucke, V.},
+  \bibinfo{author}{Ioffe, S.}, \bibinfo{author}{Shlens, J.},
+  \bibinfo{author}{Wojna, Z.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Rethinking the inception architecture for computer
+  vision}, in: \bibinfo{booktitle}{Proceedings of the IEEE Conference on
+  Computer Vision and Pattern Recognition (CVPR)}, pp.
+  \bibinfo{pages}{2818--2826}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2016.308}.
+%Type = Misc
+\bibitem[{Thung and Yang(2016)}]{trashnet}
+\bibinfo{author}{Thung, G.}, \bibinfo{author}{Yang, M.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Classification of trash for recyclability status}.
+\newblock \bibinfo{howpublished}{CS229 Project Report, Stanford University}.
+%Type = Inproceedings
+\bibitem[{Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones,
+  Gomez, Kaiser and Polosukhin}]{vaswani_attention}
+\bibinfo{author}{Vaswani, A.}, \bibinfo{author}{Shazeer, N.},
+  \bibinfo{author}{Parmar, N.}, \bibinfo{author}{Uszkoreit, J.},
+  \bibinfo{author}{Jones, L.}, \bibinfo{author}{Gomez, A.N.},
+  \bibinfo{author}{Kaiser, {\L}.}, \bibinfo{author}{Polosukhin, I.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Attention is all you need}, in:
+  \bibinfo{booktitle}{Advances in Neural Information Processing Systems
+  (NeurIPS)}, pp. \bibinfo{pages}{5998--6008}.
+%Type = Inproceedings
+\bibitem[{Woo et~al.(2018)Woo, Park, Lee and Kweon}]{woo_cbam}
+\bibinfo{author}{Woo, S.}, \bibinfo{author}{Park, J.}, \bibinfo{author}{Lee,
+  J.Y.}, \bibinfo{author}{Kweon, I.S.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{CBAM}: Convolutional block attention module}, in:
+  \bibinfo{booktitle}{Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pp. \bibinfo{pages}{3--19}.
+\newblock \DOIprefix\doi{10.1007/978-3-030-01234-2_1}.
+
+\end{thebibliography}

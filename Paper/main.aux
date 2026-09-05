@@ -1,0 +1,147 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\orcidauthor{0009-0008-4137-5905}{Baizid MD Ashadzzaman}
+\csgdef{mark@corau1}{1}
+\emailauthor{baizid.md.ashadzzaman@gmail.com}{Baizid MD Ashadzzaman}
+\creditauthor{Conceptualization, Methodology, Software, Validation, Formal analysis, Investigation, Data curation, Writing -- original draft, Writing -- review and editing}{Baizid MD Ashadzzaman}
+\NewLabel{cor1}{1}
+\citation{realwaste}
+\citation{trashnet,meng_a_study}
+\citation{simonyan_vgg,he_resnet,huang_densenet}
+\citation{meng_a_study}
+\citation{trashnet}
+\citation{realwaste,deepwaste}
+\citation{selvaraju_gradcam}
+\citation{pan_transfer}
+\citation{hu_senet}
+\citation{woo_cbam}
+\citation{selvaraju_gradcam}
+\citation{huang_densenet}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\newlabel{sec:intro}{{1}{1}{Introduction}{section.1}{}}
+\citation{he_resnet}
+\citation{sandler_mobilenet}
+\citation{simonyan_vgg}
+\citation{szegedy_inceptionv3}
+\citation{szegedy_inceptionresnet}
+\citation{meng_a_study}
+\citation{rabano_common}
+\citation{aral_trashnet}
+\citation{deepwaste}
+\citation{realwaste}
+\citation{vaswani_attention}
+\citation{hu_senet}
+\citation{woo_cbam}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces High-level overview of the attention-guided waste-classification framework. Raw landfill images are preprocessed, encoded by a frozen ImageNet-pretrained CNN, recalibrated by a channel-attention gate, and mapped to class probabilities by the classifier head. For every prediction a Grad-CAM heatmap can be produced for inspection.}}{2}{figure.1}\protected@file@percent }
+\newlabel{fig:schema}{{1}{2}{High-level overview of the attention-guided waste-classification framework. Raw landfill images are preprocessed, encoded by a frozen ImageNet-pretrained CNN, recalibrated by a channel-attention gate, and mapped to class probabilities by the classifier head. For every prediction a Grad-CAM heatmap can be produced for inspection}{figure.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{2}{section.2}\protected@file@percent }
+\newlabel{sec:related}{{2}{2}{Related Work}{section.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Waste classification with deep learning}{2}{subsection.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Attention mechanisms in convolutional networks}{2}{subsection.2.2}\protected@file@percent }
+\citation{selvaraju_gradcam}
+\citation{realwaste}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Interpretability for image classifiers}{3}{subsection.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Materials and Methods}{3}{section.3}\protected@file@percent }
+\newlabel{sec:methods}{{3}{3}{Materials and Methods}{section.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Problem formulation}{3}{subsection.3.1}\protected@file@percent }
+\newlabel{eq:softmax}{{1}{3}{Problem formulation}{equation.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Dataset and preprocessing}{3}{subsection.3.2}\protected@file@percent }
+\newlabel{sec:dataset}{{3.2}{3}{Dataset and preprocessing}{subsection.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Representative samples of the nine waste classes of the RealWaste dataset: (a)~Food Organics, (b)~Cardboard, (c)~Glass, (d)~Metal, (e)~Miscellaneous Trash, (f)~Paper, (g)~Plastic, (h)~Textile Trash, and (i)~Vegetation. Note the realistic, contaminated and visually ambiguous conditions under which the images were captured.}}{3}{figure.2}\protected@file@percent }
+\newlabel{fig:samples}{{2}{3}{Representative samples of the nine waste classes of the RealWaste dataset: (a)~Food Organics, (b)~Cardboard, (c)~Glass, (d)~Metal, (e)~Miscellaneous Trash, (f)~Paper, (g)~Plastic, (h)~Textile Trash, and (i)~Vegetation. Note the realistic, contaminated and visually ambiguous conditions under which the images were captured}{figure.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Class distribution of the training, validation and test partitions after stratified 70/15/15 splitting. Every partition preserves the relative frequencies of the nine classes.}}{3}{figure.3}\protected@file@percent }
+\newlabel{fig:distribution}{{3}{3}{Class distribution of the training, validation and test partitions after stratified 70/15/15 splitting. Every partition preserves the relative frequencies of the nine classes}{figure.3}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Class distribution of the RealWaste dataset used in this study. Total: 4{,}752 images, acquired at $524\times 524$\,resolution.}}{4}{table.caption.1}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{tbl:dataset}{{1}{4}{Class distribution of the RealWaste dataset used in this study. Total: 4{,}752 images, acquired at $524\times 524$\,resolution}{table.caption.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Data augmentation applied to the training split. The operators introduce scale, aspect-ratio and mirroring variability that regularise the learning process on the imbalanced dataset.}}{4}{figure.4}\protected@file@percent }
+\newlabel{fig:augmentation}{{4}{4}{Data augmentation applied to the training split. The operators introduce scale, aspect-ratio and mirroring variability that regularise the learning process on the imbalanced dataset}{figure.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Overall framework}{4}{subsection.3.3}\protected@file@percent }
+\newlabel{sec:framework}{{3.3}{4}{Overall framework}{subsection.3.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Proposed methodological pipeline. The preprocessing phase loads, resizes and stratifies the raw landfill images; the training phase first performs backbone feature extraction, then channel-attention recalibration and classification, updating only the attention and classifier parameters; the testing phase restores the best checkpoint and produces predictions together with Grad-CAM heatmaps.}}{4}{figure.5}\protected@file@percent }
+\newlabel{fig:methodology}{{5}{4}{Proposed methodological pipeline. The preprocessing phase loads, resizes and stratifies the raw landfill images; the training phase first performs backbone feature extraction, then channel-attention recalibration and classification, updating only the attention and classifier parameters; the testing phase restores the best checkpoint and produces predictions together with Grad-CAM heatmaps}{figure.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Channel attention module}{4}{subsection.3.4}\protected@file@percent }
+\newlabel{sec:channel-attention}{{3.4}{4}{Channel attention module}{subsection.3.4}{}}
+\newlabel{eq:gap}{{4}{4}{Channel attention module}{equation.4}{}}
+\newlabel{eq:gmp}{{5}{4}{Channel attention module}{equation.5}{}}
+\citation{huang_densenet}
+\citation{cui_classbalanced}
+\citation{kingma_adam}
+\citation{goyal_bigbatch}
+\citation{paszke_pytorch}
+\newlabel{eq:attweights}{{6}{5}{Channel attention module}{equation.6}{}}
+\newlabel{eq:recalib}{{7}{5}{Channel attention module}{equation.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Structure of the channel-attention gate. The final feature maps are pooled with global average and maximum pooling, concatenated, and passed through a two-layer bottleneck perceptron followed by a sigmoid activation; the resulting gate vector recalibrates the feature maps channel-wise.}}{5}{figure.6}\protected@file@percent }
+\newlabel{fig:attention}{{6}{5}{Structure of the channel-attention gate. The final feature maps are pooled with global average and maximum pooling, concatenated, and passed through a two-layer bottleneck perceptron followed by a sigmoid activation; the resulting gate vector recalibrates the feature maps channel-wise}{figure.6}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}DenseNet-121 backbone}{5}{subsection.3.5}\protected@file@percent }
+\newlabel{sec:densenet}{{3.5}{5}{DenseNet-121 backbone}{subsection.3.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Backbone configurations used for transfer learning. In all cases the convolutional body is frozen and only the attention module and the classifier are trained. \csdef {SE}{\textsc  {\lowercase {SE}}\xspace  } denotes the channel-attention gate of Section~\ref {sec:channel-attention}.}}{5}{table.caption.2}\protected@file@percent }
+\newlabel{tbl:backbones}{{2}{5}{Backbone configurations used for transfer learning. In all cases the convolutional body is frozen and only the attention module and the classifier are trained. \tsc {SE} denotes the channel-attention gate of Section~\ref {sec:channel-attention}}{table.caption.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}Training strategy}{5}{subsection.3.6}\protected@file@percent }
+\newlabel{sec:training}{{3.6}{5}{Training strategy}{subsection.3.6}{}}
+\newlabel{eq:loss}{{8}{5}{Training strategy}{equation.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7}Evaluation metrics and explainability}{5}{subsection.3.7}\protected@file@percent }
+\newlabel{sec:evaluation}{{3.7}{5}{Evaluation metrics and explainability}{subsection.3.7}{}}
+\citation{selvaraju_gradcam}
+\citation{paszke_pytorch}
+\citation{hu_senet,woo_cbam}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Training hyperparameters of the proposed framework.}}{6}{table.caption.3}\protected@file@percent }
+\newlabel{tbl:hyperparams}{{3}{6}{Training hyperparameters of the proposed framework}{table.caption.3}{}}
+\newlabel{eq:gradcamw}{{11}{6}{Evaluation metrics and explainability}{equation.11}{}}
+\newlabel{eq:gradcamm}{{12}{6}{Evaluation metrics and explainability}{equation.12}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Results and Discussion}{6}{section.4}\protected@file@percent }
+\newlabel{sec:results}{{4}{6}{Results and Discussion}{section.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Implementation details}{6}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Comparison with pretrained backbones}{6}{subsection.4.2}\protected@file@percent }
+\newlabel{sec:backbone}{{4.2}{6}{Comparison with pretrained backbones}{subsection.4.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Training and validation curves of the proposed attention-guided DenseNet-121 model. The losses decrease monotonically and the validation accuracy converges to a stable plateau, indicating well-regulated training without overfitting.}}{6}{figure.7}\protected@file@percent }
+\newlabel{fig:learning}{{7}{6}{Training and validation curves of the proposed attention-guided DenseNet-121 model. The losses decrease monotonically and the validation accuracy converges to a stable plateau, indicating well-regulated training without overfitting}{figure.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Ablation study: effect of channel attention}{6}{subsection.4.3}\protected@file@percent }
+\newlabel{sec:ablation}{{4.3}{6}{Ablation study: effect of channel attention}{subsection.4.3}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Test performance (top-1 accuracy and macro-averaged precision, recall and $F_1$-score) of the seven attention-gated backbones on the RealWaste test set. The proposed DenseNet-121 framework performs best.}}{7}{table.caption.4}\protected@file@percent }
+\newlabel{tbl:comparison}{{4}{7}{Test performance (top-1 accuracy and macro-averaged precision, recall and $F_1$-score) of the seven attention-gated backbones on the RealWaste test set. The proposed DenseNet-121 framework performs best}{table.caption.4}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Per-class precision ($P$), recall ($R$) and $F_1$-score of DenseNet-121 with and without the channel-attention gate on the RealWaste test set. The attention mechanism raises the overall accuracy from 79.41\% to 82.35\% and the macro-$F_1$ from 0.80 to 0.83.}}{7}{table.caption.5}\protected@file@percent }
+\newlabel{tbl:ablation}{{5}{7}{Per-class precision ($P$), recall ($R$) and $F_1$-score of DenseNet-121 with and without the channel-attention gate on the RealWaste test set. The attention mechanism raises the overall accuracy from 79.41\% to 82.35\% and the macro-$F_1$ from 0.80 to 0.83}{table.caption.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Confusion-matrix analysis}{7}{subsection.4.4}\protected@file@percent }
+\newlabel{sec:confusion}{{4.4}{7}{Confusion-matrix analysis}{subsection.4.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Confusion matrices of DenseNet-121 with and without the channel-attention gate on the 713-image test set. The attention mechanism reduces cross-category confusion, most notably between Cardboard and Paper and between Plastic and Glass/Metal.}}{7}{figure.8}\protected@file@percent }
+\newlabel{fig:cm}{{8}{7}{Confusion matrices of DenseNet-121 with and without the channel-attention gate on the 713-image test set. The attention mechanism reduces cross-category confusion, most notably between Cardboard and Paper and between Plastic and Glass/Metal}{figure.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Grad-CAM explainability}{8}{subsection.4.5}\protected@file@percent }
+\newlabel{sec:gradcam}{{4.5}{8}{Grad-CAM explainability}{subsection.4.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Grad-CAM explanations (overlay on the right of each panel) for four representative test images. Correct predictions are localised on salient waste objects, while the two misclassifications correspond to genuine visual ambiguities detected by the model.}}{8}{figure.9}\protected@file@percent }
+\newlabel{fig:gradcam}{{9}{8}{Grad-CAM explanations (overlay on the right of each panel) for four representative test images. Correct predictions are localised on salient waste objects, while the two misclassifications correspond to genuine visual ambiguities detected by the model}{figure.9}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}System deployment and web application}{8}{subsection.4.6}\protected@file@percent }
+\newlabel{sec:deployment}{{4.6}{8}{System deployment and web application}{subsection.4.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Screen capture of the deployed web application classifying a Cardboard sample. The interface shows the uploaded image together with the predicted waste category and its confidence, and follows the upload-classify- display workflow described in the text.}}{8}{figure.10}\protected@file@percent }
+\newlabel{fig:ui}{{10}{8}{Screen capture of the deployed web application classifying a Cardboard sample. The interface shows the uploaded image together with the predicted waste category and its confidence, and follows the upload-classify- display workflow described in the text}{figure.10}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.7}Limitations}{8}{subsection.4.7}\protected@file@percent }
+\newlabel{sec:limitations}{{4.7}{8}{Limitations}{subsection.4.7}{}}
+\bibstyle{cas-model2-names}
+\bibdata{refs}
+\bibcite{aral_trashnet}{{1}{2018}{{Aral et~al.}}{{Aral, Keskin, Kaya and Hac{\i }{\"o}mero{\u {g}}lu}}}
+\bibcite{deepwaste}{{2}{2020}{{Bashkirova et~al.}}{{Bashkirova, Teplyakov, Averbuch-Elor, Adeli, Aikenhead, Eisner, Adeli and Kak}}}
+\bibcite{cui_classbalanced}{{3}{2019}{{Cui et~al.}}{{Cui, Jia, Lin, Song and Belongie}}}
+\bibcite{goyal_bigbatch}{{4}{2017}{{Goyal et~al.}}{{Goyal, Doll{\'a}r, Girshick, Noordhuis, Wesolowski, Kyrola, Tulloch, Jia and He}}}
+\bibcite{he_resnet}{{5}{2016}{{He et~al.}}{{He, Zhang, Ren and Sun}}}
+\bibcite{hu_senet}{{6}{2018}{{Hu et~al.}}{{Hu, Shen and Sun}}}
+\bibcite{huang_densenet}{{7}{2017}{{Huang et~al.}}{{Huang, Liu, van~der Maaten and Weinberger}}}
+\bibcite{kingma_adam}{{8}{2015}{{Kingma and Ba}}{{}}}
+\bibcite{meng_a_study}{{9}{2020}{{Meng and Chu}}{{}}}
+\bibcite{pan_transfer}{{10}{2010}{{Pan and Yang}}{{}}}
+\bibcite{paszke_pytorch}{{11}{2019}{{Paszke et~al.}}{{Paszke, Gross, Massa, Lerer, Bradbury, Chanan, Killeen, Lin, Gimelshein, Antiga et~al.}}}
+\bibcite{rabano_common}{{12}{2018}{{Rabano et~al.}}{{Rabano, Cabatuan, Sybingco, Dadios and Calilung}}}
+\bibcite{sandler_mobilenet}{{13}{2018}{{Sandler et~al.}}{{Sandler, Howard, Zhu, Zhmoginov and Chen}}}
+\bibcite{selvaraju_gradcam}{{14}{2017}{{Selvaraju et~al.}}{{Selvaraju, Cogswell, Das, Vedantam, Parikh and Batra}}}
+\bibcite{simonyan_vgg}{{15}{2015}{{Simonyan and Zisserman}}{{}}}
+\bibcite{realwaste}{{16}{2023}{{Single et~al.}}{{Single, Iranmanesh and Raad}}}
+\bibcite{szegedy_inceptionresnet}{{17}{2017}{{Szegedy et~al.}}{{Szegedy, Ioffe, Vanhoucke and Alemi}}}
+\bibcite{szegedy_inceptionv3}{{18}{2016}{{Szegedy et~al.}}{{Szegedy, Vanhoucke, Ioffe, Shlens and Wojna}}}
+\bibcite{trashnet}{{19}{2016}{{Thung and Yang}}{{}}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusion and Future Work}{9}{section.5}\protected@file@percent }
+\newlabel{sec:conclusion}{{5}{9}{Conclusion and Future Work}{section.5}{}}
+\bibcite{vaswani_attention}{{20}{2017}{{Vaswani et~al.}}{{Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser and Polosukhin}}}
+\bibcite{woo_cbam}{{21}{2018}{{Woo et~al.}}{{Woo, Park, Lee and Kweon}}}
+\csxdef{lastpage}{10}
+\gdef \@abspage@last{10}

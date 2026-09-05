@@ -1,0 +1,606 @@
+PWD m:\RESEARCH\Waste Classification\Paper
+INPUT C:\Users\My Pc\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT m:\RESEARCH\Waste Classification\Paper\main.tex
+OUTPUT main.log
+INPUT .\cas-dc.cls
+INPUT cas-dc.cls
+INPUT M:\New folder (2)\tex\latex\base\article.cls
+INPUT M:\New folder (2)\tex\latex\base\article.cls
+INPUT M:\New folder (2)\tex\latex\base\fleqn.clo
+INPUT M:\New folder (2)\tex\latex\base\fleqn.clo
+INPUT M:\New folder (2)\tex\latex\base\fleqn.clo
+INPUT M:\New folder (2)\tex\latex\base\size10.clo
+INPUT M:\New folder (2)\tex\latex\base\size10.clo
+INPUT M:\New folder (2)\tex\latex\base\size10.clo
+INPUT M:\New folder (2)\tex\latex\graphics\graphicx.sty
+INPUT M:\New folder (2)\tex\latex\graphics\graphicx.sty
+INPUT M:\New folder (2)\tex\latex\graphics\keyval.sty
+INPUT M:\New folder (2)\tex\latex\graphics\keyval.sty
+INPUT M:\New folder (2)\tex\latex\graphics\graphics.sty
+INPUT M:\New folder (2)\tex\latex\graphics\graphics.sty
+INPUT M:\New folder (2)\tex\latex\graphics\trig.sty
+INPUT M:\New folder (2)\tex\latex\graphics\trig.sty
+INPUT M:\New folder (2)\tex\latex\graphics-cfg\graphics.cfg
+INPUT M:\New folder (2)\tex\latex\graphics-cfg\graphics.cfg
+INPUT M:\New folder (2)\tex\latex\graphics-cfg\graphics.cfg
+INPUT M:\New folder (2)\tex\latex\graphics-def\pdftex.def
+INPUT M:\New folder (2)\tex\latex\graphics-def\pdftex.def
+INPUT M:\New folder (2)\tex\latex\graphics-def\pdftex.def
+INPUT M:\New folder (2)\tex\latex\amsmath\amsmath.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amsmath.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amsopn.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amstext.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amstext.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amsgen.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amsgen.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amsbsy.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amsbsy.sty
+INPUT M:\New folder (2)\tex\latex\amsmath\amsopn.sty
+INPUT M:\New folder (2)\tex\latex\amsfonts\amsfonts.sty
+INPUT M:\New folder (2)\tex\latex\amsfonts\amsfonts.sty
+INPUT M:\New folder (2)\tex\latex\amsfonts\amssymb.sty
+INPUT M:\New folder (2)\tex\latex\amsfonts\amssymb.sty
+INPUT M:\New folder (2)\tex\latex\l3kernel\expl3.sty
+INPUT M:\New folder (2)\tex\latex\l3kernel\expl3.sty
+INPUT M:\New folder (2)\tex\latex\l3backend\l3backend-pdftex.def
+INPUT M:\New folder (2)\tex\latex\l3backend\l3backend-pdftex.def
+INPUT M:\New folder (2)\tex\latex\l3packages\xparse\xparse.sty
+INPUT M:\New folder (2)\tex\latex\l3packages\xparse\xparse.sty
+INPUT M:\New folder (2)\tex\latex\etoolbox\etoolbox.sty
+INPUT M:\New folder (2)\tex\latex\etoolbox\etoolbox.sty
+INPUT M:\New folder (2)\tex\latex\preprint\balance.sty
+INPUT M:\New folder (2)\tex\latex\preprint\balance.sty
+INPUT M:\New folder (2)\tex\latex\booktabs\booktabs.sty
+INPUT M:\New folder (2)\tex\latex\booktabs\booktabs.sty
+INPUT M:\New folder (2)\tex\latex\makecell\makecell.sty
+INPUT M:\New folder (2)\tex\latex\makecell\makecell.sty
+INPUT M:\New folder (2)\tex\latex\tools\array.sty
+INPUT M:\New folder (2)\tex\latex\tools\array.sty
+INPUT M:\New folder (2)\tex\latex\multirow\multirow.sty
+INPUT M:\New folder (2)\tex\latex\multirow\multirow.sty
+INPUT M:\New folder (2)\tex\latex\colortbl\colortbl.sty
+INPUT M:\New folder (2)\tex\latex\colortbl\colortbl.sty
+INPUT M:\New folder (2)\tex\latex\graphics\color.sty
+INPUT M:\New folder (2)\tex\latex\graphics\color.sty
+INPUT M:\New folder (2)\tex\latex\graphics-cfg\color.cfg
+INPUT M:\New folder (2)\tex\latex\graphics-cfg\color.cfg
+INPUT M:\New folder (2)\tex\latex\graphics-cfg\color.cfg
+INPUT M:\New folder (2)\tex\latex\graphics\mathcolor.ltx
+INPUT M:\New folder (2)\tex\latex\graphics\mathcolor.ltx
+INPUT M:\New folder (2)\tex\latex\graphics\mathcolor.ltx
+INPUT M:\New folder (2)\tex\latex\tools\dcolumn.sty
+INPUT M:\New folder (2)\tex\latex\tools\dcolumn.sty
+INPUT M:\New folder (2)\tex\latex\sttools\stfloats.sty
+INPUT M:\New folder (2)\tex\latex\sttools\stfloats.sty
+INPUT M:\New folder (2)\tex\latex\tools\xspace.sty
+INPUT M:\New folder (2)\tex\latex\tools\xspace.sty
+INPUT M:\New folder (2)\tex\latex\xstring\xstring.sty
+INPUT M:\New folder (2)\tex\latex\xstring\xstring.sty
+INPUT M:\New folder (2)\tex\generic\xstring\xstring.tex
+INPUT M:\New folder (2)\tex\latex\footmisc\footmisc.sty
+INPUT M:\New folder (2)\tex\latex\footmisc\footmisc.sty
+INPUT M:\New folder (2)\tex\latex\xcolor\xcolor.sty
+INPUT M:\New folder (2)\tex\latex\xcolor\xcolor.sty
+INPUT M:\New folder (2)\tex\latex\graphics-cfg\color.cfg
+INPUT M:\New folder (2)\tex\latex\graphics\mathcolor.ltx
+INPUT M:\New folder (2)\tex\latex\xcolor\svgnam.def
+INPUT M:\New folder (2)\tex\latex\xcolor\svgnam.def
+INPUT M:\New folder (2)\tex\latex\xcolor\svgnam.def
+INPUT M:\New folder (2)\tex\latex\graphics\dvipsnam.def
+INPUT M:\New folder (2)\tex\latex\graphics\dvipsnam.def
+INPUT M:\New folder (2)\tex\latex\graphics\dvipsnam.def
+INPUT M:\New folder (2)\tex\latex\hyperref\hyperref.sty
+INPUT M:\New folder (2)\tex\latex\hyperref\hyperref.sty
+INPUT M:\New folder (2)\tex\generic\iftex\iftex.sty
+INPUT M:\New folder (2)\tex\generic\iftex\iftex.sty
+INPUT M:\New folder (2)\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT M:\New folder (2)\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT M:\New folder (2)\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT M:\New folder (2)\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT M:\New folder (2)\tex\generic\pdfescape\pdfescape.sty
+INPUT M:\New folder (2)\tex\generic\pdfescape\pdfescape.sty
+INPUT M:\New folder (2)\tex\generic\ltxcmds\ltxcmds.sty
+INPUT M:\New folder (2)\tex\generic\ltxcmds\ltxcmds.sty
+INPUT M:\New folder (2)\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT M:\New folder (2)\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT M:\New folder (2)\tex\generic\infwarerr\infwarerr.sty
+INPUT M:\New folder (2)\tex\generic\infwarerr\infwarerr.sty
+INPUT M:\New folder (2)\tex\latex\hycolor\hycolor.sty
+INPUT M:\New folder (2)\tex\latex\hycolor\hycolor.sty
+INPUT M:\New folder (2)\tex\latex\hyperref\nameref.sty
+INPUT M:\New folder (2)\tex\latex\hyperref\nameref.sty
+INPUT M:\New folder (2)\tex\latex\refcount\refcount.sty
+INPUT M:\New folder (2)\tex\latex\refcount\refcount.sty
+INPUT M:\New folder (2)\tex\generic\gettitlestring\gettitlestring.sty
+INPUT M:\New folder (2)\tex\generic\gettitlestring\gettitlestring.sty
+INPUT M:\New folder (2)\tex\latex\kvoptions\kvoptions.sty
+INPUT M:\New folder (2)\tex\latex\kvoptions\kvoptions.sty
+INPUT M:\New folder (2)\tex\generic\stringenc\stringenc.sty
+INPUT M:\New folder (2)\tex\generic\stringenc\stringenc.sty
+INPUT M:\New folder (2)\tex\latex\hyperref\pd1enc.def
+INPUT M:\New folder (2)\tex\latex\hyperref\pd1enc.def
+INPUT M:\New folder (2)\tex\latex\hyperref\pd1enc.def
+INPUT M:\New folder (2)\tex\generic\intcalc\intcalc.sty
+INPUT M:\New folder (2)\tex\generic\intcalc\intcalc.sty
+INPUT M:\New folder (2)\tex\latex\hyperref\puenc.def
+INPUT M:\New folder (2)\tex\latex\hyperref\puenc.def
+INPUT M:\New folder (2)\tex\latex\hyperref\puenc.def
+INPUT M:\New folder (2)\tex\latex\url\url.sty
+INPUT M:\New folder (2)\tex\latex\url\url.sty
+INPUT M:\New folder (2)\tex\generic\bitset\bitset.sty
+INPUT M:\New folder (2)\tex\generic\bitset\bitset.sty
+INPUT M:\New folder (2)\tex\generic\bigintcalc\bigintcalc.sty
+INPUT M:\New folder (2)\tex\generic\bigintcalc\bigintcalc.sty
+INPUT M:\New folder (2)\tex\latex\hyperref\hpdftex.def
+INPUT M:\New folder (2)\tex\latex\hyperref\hpdftex.def
+INPUT M:\New folder (2)\tex\latex\hyperref\hpdftex.def
+INPUT M:\New folder (2)\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT M:\New folder (2)\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT M:\New folder (2)\tex\generic\uniquecounter\uniquecounter.sty
+INPUT M:\New folder (2)\tex\generic\uniquecounter\uniquecounter.sty
+INPUT .\cas-common.sty
+INPUT cas-common.sty
+INPUT M:\New folder (2)\tex\latex\moreverb\moreverb.sty
+INPUT M:\New folder (2)\tex\latex\moreverb\moreverb.sty
+INPUT M:\New folder (2)\tex\latex\tools\verbatim.sty
+INPUT M:\New folder (2)\tex\latex\tools\verbatim.sty
+INPUT M:\New folder (2)\tex\latex\wrapfig\wrapfig.sty
+INPUT M:\New folder (2)\tex\latex\wrapfig\wrapfig.sty
+INPUT M:\New folder (2)\tex\latex\base\fontenc.sty
+INPUT M:\New folder (2)\tex\latex\base\fontenc.sty
+INPUT M:\New folder (2)\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT M:\New folder (2)\tex\latex\stix\stix.sty
+INPUT M:\New folder (2)\tex\latex\stix\stix.sty
+INPUT M:\New folder (2)\tex\latex\base\textcomp.sty
+INPUT M:\New folder (2)\tex\latex\base\textcomp.sty
+INPUT M:\New folder (2)\tex\latex\inconsolata\inconsolata.sty
+INPUT M:\New folder (2)\tex\latex\inconsolata\inconsolata.sty
+INPUT M:\New folder (2)\tex\latex\xkeyval\xkeyval.sty
+INPUT M:\New folder (2)\tex\latex\xkeyval\xkeyval.sty
+INPUT M:\New folder (2)\tex\generic\xkeyval\xkeyval.tex
+INPUT M:\New folder (2)\tex\generic\xkeyval\xkvutils.tex
+INPUT M:\New folder (2)\tex\latex\geometry\geometry.sty
+INPUT M:\New folder (2)\tex\latex\geometry\geometry.sty
+INPUT M:\New folder (2)\tex\generic\iftex\ifvtex.sty
+INPUT M:\New folder (2)\tex\generic\iftex\ifvtex.sty
+INPUT M:\New folder (2)\tex\latex\geometry\geometry.cfg
+INPUT M:\New folder (2)\tex\latex\geometry\geometry.cfg
+INPUT M:\New folder (2)\tex\latex\geometry\geometry.cfg
+INPUT M:\New folder (2)\tex\latex\natbib\natbib.sty
+INPUT M:\New folder (2)\tex\latex\natbib\natbib.sty
+INPUT M:\New folder (2)\tex\latex\caption\subcaption.sty
+INPUT M:\New folder (2)\tex\latex\caption\subcaption.sty
+INPUT M:\New folder (2)\tex\latex\caption\caption.sty
+INPUT M:\New folder (2)\tex\latex\caption\caption.sty
+INPUT M:\New folder (2)\tex\latex\caption\caption3.sty
+INPUT M:\New folder (2)\tex\latex\caption\caption3.sty
+INPUT M:\New folder (2)\tex\latex\float\float.sty
+INPUT M:\New folder (2)\tex\latex\float\float.sty
+INPUT M:\New folder (2)\tex\latex\stix\t1stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\t1stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\t1stix.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT M:\New folder (2)\tex\latex\stix\ls1stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stix.fd
+INPUT M:\New folder (2)\tex\context\base\mkii\supp-pdf.mkii
+INPUT M:\New folder (2)\tex\context\base\mkii\supp-pdf.mkii
+INPUT M:\New folder (2)\tex\context\base\mkii\supp-pdf.mkii
+INPUT M:\New folder (2)\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT M:\New folder (2)\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT M:\New folder (2)\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT M:\New folder (2)\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT M:\New folder (2)\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.out
+INPUT main.out
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.out
+OUTPUT main.pdf
+INPUT M:\New folder (2)\tex\latex\upquote\upquote.sty
+INPUT M:\New folder (2)\tex\latex\upquote\upquote.sty
+OUTPUT main.abs
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral-italic.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit.tfm
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixscr.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixscr.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixscr.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr.tfm
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixex.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixex.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixex.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex.tfm
+INPUT M:\New folder (2)\tex\latex\amsfonts\umsa.fd
+INPUT M:\New folder (2)\tex\latex\amsfonts\umsa.fd
+INPUT M:\New folder (2)\tex\latex\amsfonts\umsa.fd
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT M:\New folder (2)\tex\latex\amsfonts\umsb.fd
+INPUT M:\New folder (2)\tex\latex\amsfonts\umsb.fd
+INPUT M:\New folder (2)\tex\latex\amsfonts\umsb.fd
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm-bold.tfm
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixfrak.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixfrak.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixfrak.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak.tfm
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixbb.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixbb.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixbb.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit.tfm
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixcal.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixcal.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixcal.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal.tfm
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixsf.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixsf.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls1stixsf.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit.tfm
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixtt.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixtt.fd
+INPUT M:\New folder (2)\tex\latex\stix\ls2stixtt.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral-italic.tfm
+INPUT .\main.abs
+INPUT main.abs
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT .\thumbnails\cas-email.jpeg
+INPUT .\thumbnails\cas-email.jpeg
+INPUT .\thumbnails\cas-email.jpeg
+INPUT .\thumbnails\cas-email.jpeg
+INPUT .\thumbnails\cas-email.jpeg
+INPUT .\thumbnails\cas-email.jpeg
+INPUT .\thumbnails\cas-email.jpeg
+INPUT M:\New folder (2)\tex\latex\inconsolata\t1zi4.fd
+INPUT M:\New folder (2)\tex\latex\inconsolata\t1zi4.fd
+INPUT M:\New folder (2)\tex\latex\inconsolata\t1zi4.fd
+INPUT M:\New folder (2)\fonts\tfm\public\inconsolata\t1-zi4r-0.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneralsc.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral-italic.tfm
+INPUT M:\New folder (2)\tex\latex\stix\ts1stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\ts1stix.fd
+INPUT M:\New folder (2)\tex\latex\stix\ts1stix.fd
+INPUT M:\New folder (2)\fonts\tfm\public\stix\ts1-stixgeneral.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral-italic.tfm
+INPUT C:\Users\My Pc\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT M:\New folder (2)\fonts\enc\dvips\stix\stix-t1.enc
+INPUT M:\New folder (2)\fonts\enc\dvips\inconsolata\i4-t1-0.enc
+INPUT M:\New folder (2)\fonts\vf\public\stix\t1-stixgeneralsc.vf
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT .\figures\fig1_schematic.jpg
+INPUT .\figures\fig1_schematic.jpg
+INPUT .\figures\fig1_schematic.jpg
+INPUT .\figures\fig1_schematic.jpg
+INPUT .\figures\fig1_schematic.jpg
+INPUT .\figures\fig1_schematic.jpg
+INPUT .\figures\fig1_schematic.jpg
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt.tfm
+INPUT M:\New folder (2)\fonts\enc\dvips\stix\stix-ts1.enc
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathscr.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathex.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathrm-bold.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathfrak.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbb.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathbbit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathcal.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsf.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathsfit.tfm
+INPUT M:\New folder (2)\fonts\tfm\public\stix\stix-mathtt.tfm
+INPUT .\figures\fig4_sample1.jpg
+INPUT .\figures\fig4_sample1.jpg
+INPUT .\figures\fig4_sample1.jpg
+INPUT .\figures\fig4_sample1.jpg
+INPUT .\figures\fig4_sample1.jpg
+INPUT .\figures\fig4_sample1.jpg
+INPUT .\figures\fig4_sample1.jpg
+INPUT .\figures\fig4_sample2.jpg
+INPUT .\figures\fig4_sample2.jpg
+INPUT .\figures\fig4_sample2.jpg
+INPUT .\figures\fig4_sample2.jpg
+INPUT .\figures\fig4_sample2.jpg
+INPUT .\figures\fig4_sample2.jpg
+INPUT .\figures\fig4_sample2.jpg
+INPUT .\figures\fig4_sample3.jpg
+INPUT .\figures\fig4_sample3.jpg
+INPUT .\figures\fig4_sample3.jpg
+INPUT .\figures\fig4_sample3.jpg
+INPUT .\figures\fig4_sample3.jpg
+INPUT .\figures\fig4_sample3.jpg
+INPUT .\figures\fig4_sample3.jpg
+INPUT .\figures\fig4_sample4.jpg
+INPUT .\figures\fig4_sample4.jpg
+INPUT .\figures\fig4_sample4.jpg
+INPUT .\figures\fig4_sample4.jpg
+INPUT .\figures\fig4_sample4.jpg
+INPUT .\figures\fig4_sample4.jpg
+INPUT .\figures\fig4_sample4.jpg
+INPUT .\figures\fig4_sample5.jpg
+INPUT .\figures\fig4_sample5.jpg
+INPUT .\figures\fig4_sample5.jpg
+INPUT .\figures\fig4_sample5.jpg
+INPUT .\figures\fig4_sample5.jpg
+INPUT .\figures\fig4_sample5.jpg
+INPUT .\figures\fig4_sample5.jpg
+INPUT .\figures\fig4_sample6.jpg
+INPUT .\figures\fig4_sample6.jpg
+INPUT .\figures\fig4_sample6.jpg
+INPUT .\figures\fig4_sample6.jpg
+INPUT .\figures\fig4_sample6.jpg
+INPUT .\figures\fig4_sample6.jpg
+INPUT .\figures\fig4_sample6.jpg
+INPUT .\figures\fig4_sample7.jpg
+INPUT .\figures\fig4_sample7.jpg
+INPUT .\figures\fig4_sample7.jpg
+INPUT .\figures\fig4_sample7.jpg
+INPUT .\figures\fig4_sample7.jpg
+INPUT .\figures\fig4_sample7.jpg
+INPUT .\figures\fig4_sample7.jpg
+INPUT .\figures\fig4_sample8.jpg
+INPUT .\figures\fig4_sample8.jpg
+INPUT .\figures\fig4_sample8.jpg
+INPUT .\figures\fig4_sample8.jpg
+INPUT .\figures\fig4_sample8.jpg
+INPUT .\figures\fig4_sample8.jpg
+INPUT .\figures\fig4_sample8.jpg
+INPUT .\figures\fig4_sample9.jpg
+INPUT .\figures\fig4_sample9.jpg
+INPUT .\figures\fig4_sample9.jpg
+INPUT .\figures\fig4_sample9.jpg
+INPUT .\figures\fig4_sample9.jpg
+INPUT .\figures\fig4_sample9.jpg
+INPUT .\figures\fig4_sample9.jpg
+INPUT .\figures\fig5_dist_train.jpg
+INPUT .\figures\fig5_dist_train.jpg
+INPUT .\figures\fig5_dist_train.jpg
+INPUT .\figures\fig5_dist_train.jpg
+INPUT .\figures\fig5_dist_train.jpg
+INPUT .\figures\fig5_dist_train.jpg
+INPUT .\figures\fig5_dist_train.jpg
+INPUT .\figures\fig5_dist_val.jpg
+INPUT .\figures\fig5_dist_val.jpg
+INPUT .\figures\fig5_dist_val.jpg
+INPUT .\figures\fig5_dist_val.jpg
+INPUT .\figures\fig5_dist_val.jpg
+INPUT .\figures\fig5_dist_val.jpg
+INPUT .\figures\fig5_dist_val.jpg
+INPUT .\figures\fig5_dist_test.jpg
+INPUT .\figures\fig5_dist_test.jpg
+INPUT .\figures\fig5_dist_test.jpg
+INPUT .\figures\fig5_dist_test.jpg
+INPUT .\figures\fig5_dist_test.jpg
+INPUT .\figures\fig5_dist_test.jpg
+INPUT .\figures\fig5_dist_test.jpg
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT .\figures\fig6_augmentation.jpg
+INPUT .\figures\fig6_augmentation.jpg
+INPUT .\figures\fig6_augmentation.jpg
+INPUT .\figures\fig6_augmentation.jpg
+INPUT .\figures\fig6_augmentation.jpg
+INPUT .\figures\fig6_augmentation.jpg
+INPUT .\figures\fig6_augmentation.jpg
+INPUT .\figures\fig2_methodology.jpeg
+INPUT .\figures\fig2_methodology.jpeg
+INPUT .\figures\fig2_methodology.jpeg
+INPUT .\figures\fig2_methodology.jpeg
+INPUT .\figures\fig2_methodology.jpeg
+INPUT .\figures\fig2_methodology.jpeg
+INPUT .\figures\fig2_methodology.jpeg
+INPUT .\figures\fig3_attention.png
+INPUT .\figures\fig3_attention.png
+INPUT .\figures\fig3_attention.png
+INPUT .\figures\fig3_attention.png
+INPUT .\figures\fig3_attention.png
+INPUT .\figures\fig3_attention.png
+INPUT .\figures\fig3_attention.png
+INPUT M:\New folder (2)\fonts\tfm\public\inconsolata\t1-zi4r-0.tfm
+INPUT .\figures\fig7_learning_densenet.jpg
+INPUT .\figures\fig7_learning_densenet.jpg
+INPUT .\figures\fig7_learning_densenet.jpg
+INPUT .\figures\fig7_learning_densenet.jpg
+INPUT .\figures\fig7_learning_densenet.jpg
+INPUT .\figures\fig7_learning_densenet.jpg
+INPUT .\figures\fig7_learning_densenet.jpg
+INPUT .\figures\fig9_cm_without_att.jpg
+INPUT .\figures\fig9_cm_without_att.jpg
+INPUT .\figures\fig9_cm_without_att.jpg
+INPUT .\figures\fig9_cm_without_att.jpg
+INPUT .\figures\fig9_cm_without_att.jpg
+INPUT .\figures\fig9_cm_without_att.jpg
+INPUT .\figures\fig9_cm_without_att.jpg
+INPUT .\figures\fig9_cm_with_att.jpg
+INPUT .\figures\fig9_cm_with_att.jpg
+INPUT .\figures\fig9_cm_with_att.jpg
+INPUT .\figures\fig9_cm_with_att.jpg
+INPUT .\figures\fig9_cm_with_att.jpg
+INPUT .\figures\fig9_cm_with_att.jpg
+INPUT .\figures\fig9_cm_with_att.jpg
+INPUT .\figures\fig10_gradcam_a.jpg
+INPUT .\figures\fig10_gradcam_a.jpg
+INPUT .\figures\fig10_gradcam_a.jpg
+INPUT .\figures\fig10_gradcam_a.jpg
+INPUT .\figures\fig10_gradcam_a.jpg
+INPUT .\figures\fig10_gradcam_a.jpg
+INPUT .\figures\fig10_gradcam_a.jpg
+INPUT .\figures\fig10_gradcam_b.jpg
+INPUT .\figures\fig10_gradcam_b.jpg
+INPUT .\figures\fig10_gradcam_b.jpg
+INPUT .\figures\fig10_gradcam_b.jpg
+INPUT .\figures\fig10_gradcam_b.jpg
+INPUT .\figures\fig10_gradcam_b.jpg
+INPUT .\figures\fig10_gradcam_b.jpg
+INPUT .\figures\fig10_gradcam_c.jpg
+INPUT .\figures\fig10_gradcam_c.jpg
+INPUT .\figures\fig10_gradcam_c.jpg
+INPUT .\figures\fig10_gradcam_c.jpg
+INPUT .\figures\fig10_gradcam_c.jpg
+INPUT .\figures\fig10_gradcam_c.jpg
+INPUT .\figures\fig10_gradcam_c.jpg
+INPUT .\figures\fig10_gradcam_d.jpg
+INPUT .\figures\fig10_gradcam_d.jpg
+INPUT .\figures\fig10_gradcam_d.jpg
+INPUT .\figures\fig10_gradcam_d.jpg
+INPUT .\figures\fig10_gradcam_d.jpg
+INPUT .\figures\fig10_gradcam_d.jpg
+INPUT .\figures\fig10_gradcam_d.jpg
+INPUT .\figures\fig11_ui.jpg
+INPUT .\figures\fig11_ui.jpg
+INPUT .\figures\fig11_ui.jpg
+INPUT .\figures\fig11_ui.jpg
+INPUT .\figures\fig11_ui.jpg
+INPUT .\figures\fig11_ui.jpg
+INPUT .\figures\fig11_ui.jpg
+INPUT M:\New folder (2)\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
+INPUT main.aux
+INPUT .\main.out
+INPUT .\main.out
+INPUT M:\New folder (2)\fonts\type1\public\inconsolata\Inconsolata-zi4r.pfb
+INPUT M:\New folder (2)\fonts\type1\public\inconsolata\Inconsolata-zi4r.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\STIXGeneral-Bold.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\STIXGeneral-Bold.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\STIXGeneral-Italic.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\STIXGeneral-Italic.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\STIXGeneral-Regular.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\STIXGeneral-Regular.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathbb.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathbb.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathcal.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathcal.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathex.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathex.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathit-bold.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathit-bold.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathit.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathit.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathrm-bold.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathrm-bold.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathrm.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathrm.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathscr.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathscr.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathsf.pfb
+INPUT M:\New folder (2)\fonts\type1\public\stix\stix-mathsf.pfb

@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: bottle
+  1: cocksheet
+  2: hardplastic
+  3: mask
+  4: medicine
+  5: packet
+  6: polythene
+  7: sandal

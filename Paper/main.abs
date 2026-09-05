@@ -1,0 +1,28 @@
+Effective municipal solid-waste management depends on the accurate and timely
+identification of heterogeneous waste streams. Yet automated waste-sorting
+systems that are trained on pristine, non-contaminated object images frequently
+fail when deployed under real landfill conditions, where materials are
+contaminated, deformed, mixed, and visually ambiguous. In this work, we propose
+an attention-guided transfer-learning framework for nine-class waste
+classification using the RealWaste dataset, a collection of 4{,}752 RGB images
+acquired at an operating landfill site. The framework couples a frozen
+DenseNet-121 backbone with a lightweight channel-attention gate that
+recalibrates the final feature maps using global average and maximum pooling
+followed by a two-layer perceptron and sigmoid gating. Only the attention
+module and the classifier head are trained, using class-weighted
+cross-entropy to counteract the pronounced label imbalance, the Adam
+optimiser, an adaptive learning-rate scheduler, and early stopping. A
+stratified 70/15/15 train--validation--test split preserves class
+distributions across all partitions. The proposed model reaches a test
+accuracy of 82.35\% with a macro-averaged precision, recall and $F_1$-score of
+0.83, outperforming six competing backbones (ResNet-50, MobileNetV2, VGG-16,
+Inception-V3, Inception-ResNet-v2, and a compact custom CNN) under an
+identical evaluation protocol. An ablation study confirms that the channel
+attention module raises the accuracy of the DenseNet-121 baseline from
+79.41\% to 82.35\% and improves the macro-$F_1$ from 0.80 to 0.83, with the
+largest gains observed for the visually similar Plastic and Miscellaneous
+categories. Gradient-weighted class activation maps (Grad-CAM) provide
+post-hoc interpretability, confirming that the model attends to salient waste
+objects rather than irrelevant background. The proposed pipeline offers an
+accurate, transparent, and reproducible baseline for automated landfill waste
+sorting and recycling automation.
